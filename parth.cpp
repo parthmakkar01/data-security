@@ -21,7 +21,7 @@ int main()
    	mn=ltm->tm_min;
 
 	
-   	int x=mn+50;		//here whatever the minutes i will add within 1-60 the boss will able to enter in main if contion after that number of minutes
+   	int x=mn+50;		//here whatever the minutes i will add within 1-60 the boss will able to enter in main if condition after that number of minutes
 	if(x>=60)
 	{
 		x=x-60;
